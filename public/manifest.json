@@ -1,0 +1,16 @@
+{
+  "short_name": "JusticeLink",
+  "name": "JusticeLink - Secure Community Reporting",
+  "icons": [
+    {
+      "src": "/justicelink-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0b132b",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#0b132b"
+}
